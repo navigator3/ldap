@@ -1,3 +1,10 @@
+*key.tf
+*admin.json
+*.backup
+!.gitignore
+!terraform.tfvars
+.terraform
+
 # Local .terraform directories
 **/.terraform/*
 
